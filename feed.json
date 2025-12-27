@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mohan&#x27;s Creative Works",
+    "description": "",
+    "home_page_url": "https://eomohan.github.io/leomohan",
+    "feed_url": "https://eomohan.github.io/leomohan/feed.json",
+    "user_comment": "",
+    "icon": "https://eomohan.github.io/leomohan/media/website/mohan.JPG",
+    "author": {
+        "name": "Mohan Krishnamurthy"
+    },
+    "items": [
+        {
+            "id": "https://eomohan.github.io/leomohan/the-medicine-for-dying/index.html",
+            "url": "https://eomohan.github.io/leomohan/the-medicine-for-dying/index.html",
+            "title": "The Medicine for Dying",
+            "summary": "Caption Caption",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://eomohan.github.io/leomohan/media/posts/8/BC-The-Medicine-for-Dying.png\" alt=\"The Medicine for Dying\" width=\"1024\" height=\"1536\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://eomohan.github.io/leomohan/media/posts/8/responsive/BC-The-Medicine-for-Dying-xs.png 300w ,https://eomohan.github.io/leomohan/media/posts/8/responsive/BC-The-Medicine-for-Dying-sm.png 480w ,https://eomohan.github.io/leomohan/media/posts/8/responsive/BC-The-Medicine-for-Dying-md.png 768w ,https://eomohan.github.io/leomohan/media/posts/8/responsive/BC-The-Medicine-for-Dying-lg.png 1024w\">\n<figcaption>Caption</figcaption>\n</figure>\n<p><a href=\"https://www.amazon.com/dp/B0GCQ2DYQT\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\">\n<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://eomohan.github.io/leomohan/media/posts/8/BC-The-Medicine-for-Dying.png\" alt=\"The Medicine for Dying\" width=\"1024\" height=\"1536\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://eomohan.github.io/leomohan/media/posts/8/responsive/BC-The-Medicine-for-Dying-xs.png 300w ,https://eomohan.github.io/leomohan/media/posts/8/responsive/BC-The-Medicine-for-Dying-sm.png 480w ,https://eomohan.github.io/leomohan/media/posts/8/responsive/BC-The-Medicine-for-Dying-md.png 768w ,https://eomohan.github.io/leomohan/media/posts/8/responsive/BC-The-Medicine-for-Dying-lg.png 1024w\">\n<figcaption>Caption</figcaption>\n</figure>\n</a></p>",
+            "author": {
+                "name": "Mohan Krishnamurthy"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-27T10:48:54+04:00",
+            "date_modified": "2025-12-27T10:48:54+04:00"
+        },
+        {
+            "id": "https://eomohan.github.io/leomohan/the-last-ten-percent/index.html",
+            "url": "https://eomohan.github.io/leomohan/the-last-ten-percent/index.html",
+            "title": "The Last Ten Percent",
+            "summary": "Caption",
+            "content_html": "<p> </p>\n<figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://eomohan.github.io/leomohan/media/posts/6/gallery/BC-The-Last-Ten-Percent.jpg\" data-size=\"1024x1536\"><img loading=\"lazy\" src=\"https://eomohan.github.io/leomohan/media/posts/6/gallery/BC-The-Last-Ten-Percent-thumbnail.jpg\" alt=\"The Last Ten Percent\" width=\"768\" height=\"1152\"></a>\n<figcaption>Fiction</figcaption>\n</figure>\n</div></div>\n</figure>\n<figure class=\"post__image\"><a href=\"https://www.amazon.com/dp/B0GCP4FYW7\" class=\"post__image\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" src=\"https://eomohan.github.io/leomohan/media/posts/6/BC-The-Last-Ten-Percent.jpg\" alt=\"The Last Ten Percent\" width=\"1024\" height=\"1536\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://eomohan.github.io/leomohan/media/posts/6/responsive/BC-The-Last-Ten-Percent-xs.jpg 300w ,https://eomohan.github.io/leomohan/media/posts/6/responsive/BC-The-Last-Ten-Percent-sm.jpg 480w ,https://eomohan.github.io/leomohan/media/posts/6/responsive/BC-The-Last-Ten-Percent-md.jpg 768w ,https://eomohan.github.io/leomohan/media/posts/6/responsive/BC-The-Last-Ten-Percent-lg.jpg 1024w\"></a>\n<figcaption>Caption</figcaption>\n</figure>\n<p> </p>\n<figure class=\"post__image\"><a href=\"https://www.amazon.com/dp/B0GCP4FYW7\" class=\"post__image\"><img loading=\"lazy\" src=\"https://eomohan.github.io/leomohan/media/posts/6/BC-The-Last-Ten-Percent.jpg\" alt=\"The Last Ten Percent\" width=\"1024\" height=\"1536\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://eomohan.github.io/leomohan/media/posts/6/responsive/BC-The-Last-Ten-Percent-xs.jpg 300w ,https://eomohan.github.io/leomohan/media/posts/6/responsive/BC-The-Last-Ten-Percent-sm.jpg 480w ,https://eomohan.github.io/leomohan/media/posts/6/responsive/BC-The-Last-Ten-Percent-md.jpg 768w ,https://eomohan.github.io/leomohan/media/posts/6/responsive/BC-The-Last-Ten-Percent-lg.jpg 1024w\"></a>\n<figcaption>Caption</figcaption>\n</figure>",
+            "author": {
+                "name": "Mohan Krishnamurthy"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-27T10:31:21+04:00",
+            "date_modified": "2025-12-27T10:47:18+04:00"
+        },
+        {
+            "id": "https://eomohan.github.io/leomohan/no-darkroom-in-the-cloud/index.html",
+            "url": "https://eomohan.github.io/leomohan/no-darkroom-in-the-cloud/index.html",
+            "title": "No Darkroom in the Cloud",
+            "content_html": "<figure class=\"post__image\"><a href=\"https://www.amazon.in/dp/B0GCPZ4HBR\"  target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" class=\"post__image\" src=\"https://eomohan.github.io/leomohan/media/posts/5/BC-No-Darkroom-in-the-Cloud.jpg\" alt=\"No Darkroom in the Cloud\" width=\"1024\" height=\"1536\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://eomohan.github.io/leomohan/media/posts/5/responsive/BC-No-Darkroom-in-the-Cloud-xs.jpg 300w ,https://eomohan.github.io/leomohan/media/posts/5/responsive/BC-No-Darkroom-in-the-Cloud-sm.jpg 480w ,https://eomohan.github.io/leomohan/media/posts/5/responsive/BC-No-Darkroom-in-the-Cloud-md.jpg 768w ,https://eomohan.github.io/leomohan/media/posts/5/responsive/BC-No-Darkroom-in-the-Cloud-lg.jpg 1024w\"></figure></a></p>\n<p> </p>",
+            "author": {
+                "name": "Mohan Krishnamurthy"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-27T10:24:58+04:00",
+            "date_modified": "2025-12-27T10:24:58+04:00"
+        }
+    ]
+}
