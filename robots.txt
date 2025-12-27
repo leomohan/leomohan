@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://leomohan.github.io/leomohan/sitemap.xml
